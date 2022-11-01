@@ -1,2 +1,2 @@
-# Simple-Profile-Portfolio-2
+# Simple-Profile-Portfolio-React-2
 Personal Portfolio Website with HTML-CSS-JAVASCRIPT-REACTJS
